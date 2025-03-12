@@ -18,5 +18,4 @@ Run this command in your terminal:
 ```bash
 pip install requests pandas openpyxl
 
-### 2 Install Required Libraries
-Put your own API key in the code  
+ 
